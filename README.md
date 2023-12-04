@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Glenn Torrens</h1>
 <h3 align="center">A passionate software developer from New York</h3>
 
-- 🔭 I’m currently working on **My Amazing Portfolio**
+- 🔭 I’m currently working on **My Amazing 3d Portfolio**
 
-- 🌱 I’m currently learning **JavaScript, Node and React**
+- 🌱 I’m currently learning **JavaScript, Ruby, Node and React**
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 👨‍💻 All of my projects are available at [currently being built](currently being built)
+- 👨‍💻 All of my projects are available at [currently being built].
 
 - 💬 Ask me about **JavaScript**
 
