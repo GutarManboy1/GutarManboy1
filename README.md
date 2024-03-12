@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/glenn-torrens-2318b8267](www.linkedin.com/in/glenn-torrens-2318b8267)
 
-- ⚡ Fun fact **Anakin wasn't wrong.**
+- ⚡ Fun fact **Dolphins use puffer fish to 'get high'.**
 
 <p align="center">
 </p>
