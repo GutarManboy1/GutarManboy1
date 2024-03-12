@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Glenn Torrens</h1>
 <h3 align="center">A passionate full stack engineer from New York</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/GutarManboy1/3DPortfolio)
+- 🔭 I’m currently working on Waxx my full stack music community app.
 
 - 🌱 I’m currently learning **JavaScript, Ruby and React**
 
-- 👯 I’m looking to collaborate on **anything**
+- 👯 I’m looking to collaborate with **like minded individuals.**
 
-- 🤝 I’m looking for help with [my portfolio](https://github.com/GutarManboy1/3DPortfolio)
+- 🤝 I’m looking for help with my new project Waxx.
 
 - 👨‍💻 All of my projects are available at [https://github.com/GutarManboy1/3DPortfolio](https://github.com/GutarManboy1/3DPortfolio)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript/Ruby**
 
 - 📫 How to reach me **glenntorrens@gmail.com**
 
