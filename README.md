@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Waxx my full stack music community app.
 
-- 🌱 I’m currently learning **JavaScript, Ruby and React**
+- 🌱 I’m currently learning **JavaScript, Ruby and React.**
 
 - 👯 I’m looking to collaborate with **like minded individuals.**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GutarManboy1/3DPortfolio](https://github.com/GutarManboy1/3DPortfolio)
 
-- 💬 Ask me about **JavaScript/Ruby**
+- 💬 Ask me about **JavaScript/Ruby.**
 
 - 📫 How to reach me **glenntorrens@gmail.com**
 
