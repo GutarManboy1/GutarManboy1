@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with my new project Waxx.
 
-- 👨‍💻 All of my projects are available at [glenntorrens.netlify.app)
+- 👨‍💻 All of my projects are available at glenntorrens.netlify.app
 
 - 💬 Ask me about **JavaScript/Ruby.**
 
