@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **glenntorrens@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/glenn-torrens-2318b8267](www.linkedin.com/in/glenn-torrens/)
+- 📄 Know about my experiences [(https://www.linkedin.com/in/glenn-torrens/))
 
 - ⚡ Fun fact **Dolphins use puffer fish to 'get high'.**
 
