@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with my new project Waxx.
 
-- 👨‍💻 All of my projects are available at glenntorrens.netlify.app
+- 👨‍💻 All of my projects are available at [glenntorrens.netlify.app)
 
 - 💬 Ask me about **JavaScript/Ruby.**
 
 - 📫 How to reach me **glenntorrens@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/glenn-torrens-2318b8267](www.linkedin.com/in/glenn-torrens-2318b8267)
+- 📄 Know about my experiences [www.linkedin.com/in/glenn-torrens-2318b8267](www.linkedin.com/in/glenn-torrens/)
 
 - ⚡ Fun fact **Dolphins use puffer fish to 'get high'.**
 
