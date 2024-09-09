@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences https://www.linkedin.com/in/glenn-torrens/
 
-- ⚡ Fun fact **Dolphins use puffer fish to 'get high'.**
+- ⚡ Fun fact **Dolphins use puffer fish to get messed up! 🥳 .**
 
 <p align="left">
 </p>
