@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Waxx my full stack music community app.
 
-- 🌱 I’m currently working with **JavaScript, Ruby and React.**
+- 🌱 I’m currently working with **JavaScript,React and Python.**
 
 - 👯 I’m looking to collaborate with **like minded individuals.**
 
