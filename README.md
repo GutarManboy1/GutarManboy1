@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Glenn Torrens</h1>
-<h3 align="center">A passionate full stack engineer from New York</h3>
+<h1 align="center">Hi 👋, I'm Glenn</h1>
+<h3 align="center">A passionate engineer from New York</h3>
 
-- 🔭 I’m currently working on Waxx my full stack music community app.
+- 🔭 I’m currently working on Waxx my full stack music community app and a new personal website.
 
 - 🌱 I’m currently working with **JavaScript,React and Python.**
 
 - 👯 I’m looking to collaborate with **like minded individuals.**
 
-- 🤝 I’m looking for help with my new project Waxx.
-
 - 👨‍💻 All of my projects are available at https://glenntorrens.netlify.app/
-
-- 💬 Ask me about **JavaScript/Ruby/React.**
 
 - 📫 How to reach me **glenntorrens@gmail.com**
 
