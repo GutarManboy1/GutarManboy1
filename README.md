@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Glenn</h1>
 <h3 align="center">A passionate engineer from New York</h3>
 
-- 🔭 I’m currently working on Waxx my full stack music community app and a new personal website.
-
 - 🌱 I’m currently working with **JavaScript,React and a little bit of Typescript.**
 
 - 👯 I’m looking to collaborate with **like minded individuals.**
@@ -13,7 +11,7 @@
 
 - 📄 Know about my experiences https://www.linkedin.com/in/glenn-torrens/
 
-- ⚡ Fun fact **Dolphins use puffer fish to get messed up! 🥳 .**
+- ⚡ Fun fact **The first guitar was created in Ancient Egypt! 🤯 .**
 
 <p align="left">
 </p>
