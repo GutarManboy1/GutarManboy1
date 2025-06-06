@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glenn</h1>
 <h3 align="center">A passionate engineer from New York</h3>
 
-- 🌱 I’m currently working with **JavaScript,React and a little bit of Typescript.**
+- 🌱 I’m currently working with **JavaScript, Typescript and React 😵‍💫.**
 
 - 👯 I’m looking to collaborate with **like minded individuals.**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences https://www.linkedin.com/in/glenn-torrens/
 
-- ⚡ Fun fact **The first guitar was created in Ancient Egypt! 🤯 .**
+- ⚡ Fun fact **The first guitar was created in Ancient 🇪🇬 Egypt! 🤯 .**
 
 <p align="left">
 </p>
