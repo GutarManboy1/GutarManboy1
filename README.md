@@ -11,5 +11,5 @@
 
 - ⚡ Fun fact **The first guitar was created in Ancient 🇪🇬 Egypt! 🤯 .**
 
-<p align="left">
+<p align="center">
 
