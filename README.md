@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Glenn</h1>
 <h3 align="center">A passionate engineer from New York</h3>
 
-- 🌱 I’m currently working with **JavaScript, Typescript and React 😵‍💫.**
+- 🌱 I’m currently working with **JavaScript, Typescript, React and ReactNative 😵‍💫.**
 
 - 👯 I’m looking to collaborate with **like minded individuals.**
 
 - 👨‍💻 All of my projects are available at https://glenntorrens.netlify.app/
-
-- 📫 How to reach me **glenntorrens@gmail.com**
 
 - 📄 Know about my experiences https://www.linkedin.com/in/glenn-torrens/
 
