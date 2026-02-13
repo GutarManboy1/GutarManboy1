@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences https://www.linkedin.com/in/glenn-torrens/
 
-- ⚡ Fun fact **The first guitar was created in Ancient 🇪🇬 Egypt! 🤯 .**
 
 <p align="center">
 
