@@ -2,7 +2,7 @@
 <h3 align="left">A nerd from New York 🗽 🥯 🗣️"Ayyyy, I'm walkin' here!"</h3>
 
 
-- 🌱 I’m currently working with **JavaScript, Typescript, React and ReactNative 😵‍💫.**
+🌱 I’m currently working with **JavaScript, Typescript, React and ReactNative 😵‍💫.**
 
 
 
